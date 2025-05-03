@@ -1,2 +1,5 @@
 My name is Francis
 from longos
+my age is 21
+MY BIRTHDAY IS OCTOBER
+My favorite programming language is PHP,C#,Java,Python
